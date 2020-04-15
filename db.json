@@ -8,7 +8,7 @@
             "longitude": 32.829197,
             "istasyon_kodu": "ZE123456",
             "type": "AC"
-            "durum": "true",
+            "durum" : "true",
         },
         {
             "id": 2,
