@@ -1,4 +1,5 @@
-[
+{
+    "stations": [
   {
     "id": 1,
     "name": "Türkiye Petrolleri Bahçeli",
@@ -52,3 +53,4 @@
   }
  
 ]
+}
