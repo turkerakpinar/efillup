@@ -8,6 +8,7 @@
             "longitude": 32.829197,
             "istasyon_kodu": "ZE123456",
             "type": "AC"
+            "durum": "true",
         },
         {
             "id": 2,
@@ -17,7 +18,7 @@
             "longitude": 32.786878,
             "istasyon_kodu": "ES3249350",
             "type": "AC"
-            "durum":"false",
+            "durum": "false",
         },
         {
              "id": 3,
@@ -27,7 +28,7 @@
              "longitude": 32.863097,
              "istasyon_kodu": "ZE123495",
              "type": "DC"
-             "durum":"true"
+             "durum": "true"
         },
         {
              "id": 4,
@@ -37,7 +38,7 @@
              "longitude": 32.807977,
              "istasyon_kodu": "ZE1232866",
              "type": "AC"
-             "durum":"true",
+             "durum": "true",
         },
         {
              "id": 5,
@@ -47,7 +48,7 @@
              "longitude": 32.786534,
              "istasyon_kodu": "ZE12966",
              "type": "AC"
-             "durum":"true",
+             "durum": "true",
         }
        
     ]
