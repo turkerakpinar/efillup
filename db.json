@@ -2,7 +2,7 @@
     "stations": [
   {
     "id": 1,
-    "name": "Türkiye Petrolleri Bahçeli",
+    "name": "Turkiye Petrolleri Bahceli",
     "firma": "ZES",
     "latitude": 39.932029,
     "longitude": 32.829197,
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "Söğütözü",
+    "name": "Sogutozu",
     "firma": "E-şarj",
     "latitude": 39.912984,
     "longitude": 32.786878,
@@ -33,7 +33,7 @@
   },
   {
      "id": 4,
-    "name": "Çukurambar",
+    "name": "Cukurambar",
     "firma": "ZES",
     "latitude": 39.903152,
     "longitude": 32.807977,
@@ -43,7 +43,7 @@
   },
   {
     "id": 5,
-    "name": "ODTÜ",
+    "name": "ODTU",
     "firma": "ZES",
     "latitude": 39.890674,
     "longitude": 32.786534,
