@@ -19,7 +19,7 @@
             "latitude": 39.912984,
             "longitude": 32.786878,
             "batteryLevel": 1,
-            "timestamp": "2019-03-10T09:14:52Z",
+            "timestamp": "ES3249350",
             "price": 25,
             "priceTime": 60,
             "currency": "AC"
@@ -52,13 +52,13 @@
             "id": 5,
             "name": "110011",
             "description": "Cukurambar",
-            "latitude": 52.523395,
-            "longitude": 13.391886,
+            "latitude": 39.890674,
+            "longitude": 32.786534,
             "batteryLevel": 45,
-            "timestamp": "2019-03-10T09:14:52Z",
+            "timestamp": "ZE12966",
             "price": 20,
             "priceTime": 60,
-            "currency": "€"
+            "currency": "DC"
         }
     ]
 }
