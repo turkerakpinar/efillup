@@ -1,57 +1,64 @@
 {
-    "stations": [
+    "vehicles": [
         {
             "id": 1,
-            "name": "Turkiye Petrolleri Bahceli",
-            "firma": "ZES",
+            "name": "000011",
+            "description": "ZES",
             "latitude": 39.932029,
             "longitude": 32.829197,
-            "istasyon_kodu": "ZE123456",
-            "durum": 1,
-            "type": "AC"
+            "batteryLevel": 1,
+            "timestamp": "ZE123456",
+            "price": 22,
+            "priceTime": 60,
+            "currency": "AC"
         },
         {
             "id": 2,
-            "name": "Sogutozu",
-            "firma": "E-şarj",
+            "name": "001100",
+            "description": "Sogutozu",
             "latitude": 39.912984,
             "longitude": 32.786878,
-            "istasyon_kodu": "ES3249350",
-            "durum": 1,
-            "type": "AC"
-            
+            "batteryLevel": 1,
+            "timestamp": "ES3249350",
+            "price": 25,
+            "priceTime": 60,
+            "currency": "AC"
         },
         {
-             "id": 3,
-             "name": "GOP",
-             "firma": "ZES",
-             "latitude": 39.899377,
-             "longitude": 32.863097,
-             "istasyon_kodu": "ZE123495",
-             "durum": 1,
-             "type": "DC"
+            "id": 3,
+            "name": "001111",
+            "description": "GOP",
+            "latitude": 39.899377,
+            "longitude": 32.863097,
+            "batteryLevel": 0,
+            "timestamp": "ZE123495",
+            "price": 20,
+            "priceTime": 60,
+            "currency": "AC"
         },
         {
-             "id": 4,
-             "name": "Cukurambar",
-             "firma": "ZES",
-             "latitude": 39.903152,
-             "longitude": 32.807977,
-             "istasyon_kodu": "ZE1232866",
-             "durum": 0,
-             "type": "AC"
-             
+            "id": 4,
+            "name": "110000",
+            "description": "Cukurambar",
+            "latitude": 39.903152,
+            "longitude": 32.807977,
+            "batteryLevel": 1,
+            "timestamp": "ZE1232866",
+            "price": 25,
+            "priceTime": 60,
+            "currency": "AC"
         },
         {
-             "id": 5,
-             "name": "ODTU",
-             "firma": "ZES",
-             "latitude": 39.890674,
-             "longitude": 32.786534,
-             "istasyon_kodu": "ZE12966",
-             "durum": 1,
-             "type": "AC"
+            "id": 5,
+            "name": "110011",
+            "description": "Cukurambar",
+            "latitude": 52.523395,
+            "longitude": 13.391886,
+            "batteryLevel": 45,
+            "timestamp": "2019-03-10T09:14:52Z",
+            "price": 20,
+            "priceTime": 60,
+            "currency": "€"
         }
-       
     ]
 }
