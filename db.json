@@ -54,7 +54,7 @@
             "description": "ODTU",
             "latitude": 39.890674,
             "longitude": 32.786534,
-            "batteryLevel": 45,
+            "batteryLevel": 1,
             "timestamp": "G12966",
             "price": 20,
             "priceTime": "Type 3",
