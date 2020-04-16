@@ -9,7 +9,7 @@
             "batteryLevel": 1,
             "timestamp": "ZE123456",
             "price": 22,
-            "priceTime": 60,
+            "priceTime": "Type 1",
             "currency": "AC"
         },
         {
@@ -21,7 +21,7 @@
             "batteryLevel": 1,
             "timestamp": "ES3249350",
             "price": 25,
-            "priceTime": 60,
+            "priceTime": "Type 2",
             "currency": "AC"
         },
         {
@@ -33,7 +33,7 @@
             "batteryLevel": 0,
             "timestamp": "ZE123495",
             "price": 20,
-            "priceTime": 60,
+            "priceTime": "Type 1",
             "currency": "AC"
         },
         {
@@ -45,7 +45,7 @@
             "batteryLevel": 1,
             "timestamp": "VR1232866",
             "price": 25,
-            "priceTime": 60,
+            "priceTime": "Type 3",
             "currency": "AC"
         },
         {
@@ -57,7 +57,7 @@
             "batteryLevel": 45,
             "timestamp": "G12966",
             "price": 20,
-            "priceTime": 60,
+            "priceTime": "Type 3",
             "currency": "DC"
         }
     ]
